@@ -111,7 +111,6 @@ jupyter notebook churn_prediction.ipynb
 Desktop/
 ├── churn_prediction.ipynb    # Ana Jupyter Notebook
 ├── README.md                 # Bu dosya
-└── covid_analysis.ipynb      # Diğer proje (COVID-19)
 ```
 
 ---
